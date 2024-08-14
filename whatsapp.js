@@ -1,6 +1,6 @@
 alert("Welcome to Ghana's Look Alike. Please Fill and Submit The Form For Registration.")
 function sendToWhatsapp() {
-	let number = "+233203960860";
+	let number = "+233245032899";
 
 	let name = document.getElementById('name').value;
 	let date = document.getElementById('date').value;
